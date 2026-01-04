@@ -1,0 +1,9 @@
+{
+	"name": "free-sql-db-7127037",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19401096-c3c5-448f-8c9b-8dceb9235f05",
+		"tenantId": "7c83d673-3d59-48d9-b0e6-82f8a134fc25"
+	}
+}
