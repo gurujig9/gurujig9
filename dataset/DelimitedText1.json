@@ -3,7 +3,10 @@
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "FileServer1",
-			"type": "LinkedServiceReference"
+			"type": "LinkedServiceReference",
+			"parameters": {
+				"csv2blob": "a"
+			}
 		},
 		"annotations": [],
 		"type": "DelimitedText",
